@@ -1,0 +1,30 @@
+# Build outputs
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# User config
+settings.json
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# PaddleOCR model cache
+.paddleocr/
+
+# IDE
+.idea/
+.vscode/
+*.swp
