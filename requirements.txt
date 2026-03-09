@@ -1,0 +1,10 @@
+mss>=9.0.1
+opencv-python>=4.9.0
+paddleocr>=2.7.0
+paddlepaddle>=2.6.0
+PyQt6>=6.6.0
+pywin32>=306
+ollama>=0.1.8
+pyperclip>=1.8.2
+keyboard>=0.13.5
+requests>=2.31.0
